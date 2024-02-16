@@ -2,7 +2,7 @@
 R code and data for the paper:
 Ma, Y., Zang, E., Opara, I., Lu, Y., Krumholz, H. M., & Chen, K. (2023). Racial/ethnic disparities in PM2.5-attributable cardiovascular mortality burden in the United States. Nature Human Behaviour, 7(12), 2074-2083.
 
-The main model code is in the "Main model.R" file.
+The main model code is in the "Main_model.R" file.
 
 Please follow the "Analysis description" document for 
   1) dataset description,
